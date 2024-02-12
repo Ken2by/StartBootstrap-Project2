@@ -5,3 +5,45 @@
 .divider:hover{
     background-color:  #1ABC9C;
 }
+
+.button1{
+    outline: 2px solid white;
+    background-color: transparent;
+    color: white;
+}
+
+.button1:hover{
+    outline: none;
+    background-color: white;
+    color: black;
+    transition: 1sec;
+}
+
+.divider-left{
+    background-color: white !important;
+    padding: 1px !important;
+    padding-right: 1px !important;
+
+}
+
+.divider-right{
+    background-color: white !important;
+    padding: 1px !important;
+    padding-left: 1px !important;
+}
+
+.divider1{
+    background-color: black !important;
+    padding: 1px !important;
+    padding-right: 1px !important;
+}
+
+.divider2{
+    background-color: black !important;
+    padding: 1px !important;
+    padding-left: 1px !important;
+}
+
+.input-1{
+    
+}
