@@ -47,3 +47,12 @@
 .input-1{
     
 }
+
+.div-1{
+    background-color: RGB(59, 66, 82);
+}
+
+.bi-facebook:hover,.bi-twitter:hover,.bi-linkedin:hover,.bi-globe2:hover{
+    background-color: white;
+    color: black !important;
+}
